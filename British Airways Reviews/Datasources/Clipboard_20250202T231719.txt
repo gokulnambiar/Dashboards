@@ -1,0 +1,8 @@
+Measure Names	Measure Values
+Avg. Rating	4.188821752
+Avg. Cabin Staff Service	3.280211480
+Avg. Seat Comfort	2.870090634
+Avg. Food Beverages	2.381419940
+Avg. Entertainment	1.435800604
+Avg. Ground Service	3.031722054
+Avg. Value For Money	2.777945619
